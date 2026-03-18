@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node /home/dark/Projects/context-foundry-main/skills/freeze/freeze.js)",
+      "Bash(source ~/.nvm/nvm.sh)",
+      "Read(//tmp/cf-test/**)",
+      "Bash(node /home/dark/Projects/context-foundry-main/skills/clone/clone.js list)"
+    ]
+  }
+}
