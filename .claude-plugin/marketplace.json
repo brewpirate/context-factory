@@ -1,0 +1,18 @@
+{
+  "name": "context-foundry",
+  "owner": {
+    "name": "context-factory"
+  },
+  "plugins": [
+    {
+      "name": "context-factory",
+      "description": "Snapshot and fork Claude Code sessions. /freeze saves a named snapshot; /clone forks a prior session into the current context.",
+      "version": "1.0.0",
+      "author": {
+        "name": "context-factory"
+      },
+      "source": "./context-factory",
+      "keywords": ["session", "snapshot", "context", "fork", "freeze", "clone"]
+    }
+  ]
+}
